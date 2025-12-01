@@ -7,4 +7,4 @@ Thank you for everything you've made over those years, [WebGL3D](https://www.rob
 
 For anyone that really wants to download it, here it is: https://chromewebstore.google.com/detail/roblox+/jfbnmfgkohlfclfnplnlenbalpppohkm
 
-Reminder: Roblox + isn't actively maintaned anymore. **Use it at the risk, as it'll be buggy soon.**
+Reminder: Roblox + isn't actively maintained anymore. **Use it at your own risk, as it'll be buggy soon. Forked version might be better, but who knows.**
